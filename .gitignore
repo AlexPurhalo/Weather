@@ -1,3 +1,8 @@
 /node_modules
 bundle.js
 npm-debug.log
+.idea/ReduxSimpleStarter.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
